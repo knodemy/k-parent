@@ -1,4 +1,4 @@
 STParent
 ========
 
-Scooter Tutor Parent POM. Test trigger build on commit.
+Scooter Tutor Parent POM. Test trigger build on commit. Build again!

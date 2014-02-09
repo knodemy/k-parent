@@ -1,4 +1,4 @@
 STParent
 ========
 
-Scooter Tutor Parent POM. Testing
+Scooter Tutor Parent POM.

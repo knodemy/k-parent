@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.scootertutor</groupId>
+	<groupId>com.knodemy</groupId>
 	<artifactId>k-parent</artifactId>
 	<packaging>pom</packaging>
 	<version>1.0.0</version>
@@ -14,8 +14,8 @@
 	</issueManagement>
 
 	<organization>
-		<name>ScooterTutor</name>
-		<url>http://www.scootertutor.com</url>
+		<name>Kno-Demy</name>
+		<url>http://www.knodemy.com</url>
 	</organization>
 
 	<distributionManagement>
@@ -50,9 +50,9 @@
 		<enforceDependencyConvergence>false</enforceDependencyConvergence>
 	</properties>
 	<scm>
-		<developerConnection>scm:git:ssh://git@github.com:scootertutor/STParent.git</developerConnection>
-		<connection>scm:git:ssh://git@github.com:scootertutor/STParent.git</connection>
-		<url>ssh://git@github.com:scootertutor/STParent.git</url>
+		<developerConnection>scm:git:ssh://git@github.com:knodemy/k-parent.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com:knodemy/k-parent.git</connection>
+		<url>ssh://git@github.com:knodemy/k-parent.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
